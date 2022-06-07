@@ -6,6 +6,6 @@
 
 🇨🇳 China Xiamen・🎯 Web developer
 
-<img src="https://inews.gtimg.com/newsapp_ls/0/14982205487/0.jiketuchuang.png" alt="drawing" width="200"/>
+<img src="https://inews.gtimg.com/newsapp_ls/0/14982205487/0.jiketuchuang.png" alt="drawing" width="150"/>
 
 
